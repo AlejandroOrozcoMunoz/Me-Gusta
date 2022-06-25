@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color:black(179, 179, 179) 
+}
+
+nav {
+    width: 1040px;
+    margin: 0 auto;
+    height: 50px;
+    background-color:black;
+    color: white;
+    margin-bottom: 50px;
+}
+
+.titulo {
+
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 300%;
+}
+h1 {
+    padding: 10px;
+    text-align: left;
+    font-size: 200%;
+}
+
+main {
+    display: flex;
+    
+}
+
+.usuario {
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    margin-left: 180px;
+    border: 3px black solid;
+    
+}
+
+.img    {
+    height: 80px;
+    align-content: center;
+    position: relative;
+    top: 80px;
+    left: 100px;
+}
+
+h2 {
+    position: relative;
+    top: 180px;
+    left: 60px;
+}
+.link {
+    position: relative;
+    left: 100px;
+    top: 90px;
+}
+
+.ninja {
+    width: 500px;
+    height: 200px;
+    padding: 50px;
+    background-color: grey;
+    margin-left: 170px;
+    margin-bottom: 20px;
+    display: flex;
+    margin-right: 20px;
+
+}
+.ninja-body {
+    align-content:space-between;
+}
+
+.nombres {
+    width: 500px;
+    height: 180px;
+    background-color: whitesmoke;
+    margin-left: 200px;
+    border: 3px black solid;
+}
+.nombres1 {
+    width: 500px;
+    height: 180px;
+    background-color: whitesmoke;
+    position: relative;
+    top: 100px;
+    border: 3px black solid;
+}
+
+.nombres2 {
+    width: 500px;
+    height: 180px;
+    background-color:whitesmoke;
+    position: relative;
+    top: 100px;
+    border: 3px black solid;
+}
+
+.parrafo {
+    position: relative;
+    top: 20px;
+    left: 50px;
+}
+
+.name1 {
+    position: relative;
+    left: 50px;
+    top: 25px;
+    font-size: 200%;
+}
+
+#like {
+    position: relative;
+    left: 250px;
+    
+}
+#like1 {
+    position: relative;
+    left: 250px;
+}
+
+#like2 {
+    position: relative;
+    left: 250px;
+}
+
+p {
+    position: relative;
+    left: 280px;
+    bottom: 20px;
+}
+.click {
+    position: relative;
+    left: 400px;
+    bottom: 50px;
+    height: 40px;
+    width: 50px;
+    background-color: wheat;
+    font-size: 100%;
+    font-family: 'Times New Roman', Times, serif;
+}
